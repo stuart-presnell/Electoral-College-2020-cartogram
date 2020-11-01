@@ -2,7 +2,7 @@
 
 A cartogram of the US with states sized by their number of Electoral College votes in the 2020 general election
 
-This kind of map is a more informative way to judge who's winning, since physically large states like Montana (MT) and Wyoming (WY) only have a relatively small number of Electoral College votes, which is what matters in determining the eventual winner.
+This kind of map is a more informative way to judge who's winning, since some physically small states like Massachusetts (MA) have relatively large populations and more Electoral College votes, whereas some physically large states like Montana (MT) only have a relatively small number of Electoral College votes.
 
 main.tex is the main file to compile to produce the map.  This file defines the shapes for each state and draws them, and also defines five colour styles: 
 
