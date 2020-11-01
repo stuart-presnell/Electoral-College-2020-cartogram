@@ -4,7 +4,8 @@ A cartogram of the US with states sized by their number of Electoral College vot
 
 This kind of map is a more informative way to judge who's winning, since some physically small states like Massachusetts (MA) have relatively large populations and more Electoral College votes, whereas some physically large states like Montana (MT) only have a relatively small number of Electoral College votes.
 
-main.tex is the main file to compile to produce the map.  This file defines the shapes for each state and draws them, and also defines five colour styles: 
+main.tex is the main file to compile to produce the map.  Compile it with a LaTeX editor or at https://www.overleaf.com/
+This file defines the shapes for each state and draws them, and also defines five colour styles: 
 
   wait (white)
 
