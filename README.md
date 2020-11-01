@@ -27,7 +27,7 @@ Choose which one to use by uncommenting one of the following lines in main.tex:
 
 blank.tex has all states set to [wait], to produce a blank map that you can print and colour by hand.
 
-results.tex initialises the map with some states set to [Dfav] and [Rfav] (*) and leaves the others blank.  
+results.tex initialises the map with some states (*) set to [Dfav] and [Rfav]  and leaves the others blank.  
 
 
 As results come in on election night you can edit results.tex and recompile to update the map.
